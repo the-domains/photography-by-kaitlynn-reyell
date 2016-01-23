@@ -1,0 +1,28 @@
+name: Photography by Kaitlynn Reyell
+favicon: null
+layout_spectrum: 0.6816491149365902
+typography_spectrum: 0.7917312169447541
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.24447254021652043
+  lightness: 0.2577029427047819
+  saturation: 0.845397453289479
+  rhythmicContrast: 0.7497547143138945
+purpose: []
